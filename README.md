@@ -6,3 +6,4 @@ para rodar o projeto basta dar um:
 -yarn install\
 -yarn start
 
+![Alt text](./print.jpg?raw=true "Optional Title")
